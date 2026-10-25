@@ -3,9 +3,7 @@
 - 🔭 I’m currently working on Claude Code, Bio-Tech Startup(s), YC Founding, & Data Analytics
 - 🌱 I’m currently learning Cybersecurity & Back-End foudnations
 - 👯 I’m looking to collaborate on cloud based projects with other aspiring start-up foudner in undergrad!
-- 🤔 I’m looking for help with the vibecoding scene
-- 💬 Ask me about my unique pathway into tech and cybersecurity!
-- 📫 How to reach me: Shoot me a message in in here.
+- 📫 How to reach me: Shoot me a message in in here or jace.roman@temple.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm tri-ethnic
 
