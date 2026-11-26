@@ -36,25 +36,25 @@
     <text x="15" y="490">                ++:::++</text>
     <text x="15" y="510">                  ;++</text>
     <text x="390" y="30">jace@roman <tspan class="rule">─────────────────────────────────────────────────</tspan></text>
-    <text x="390" y="50"><tspan class="key">Role:</tspan> <tspan class="dots">····································</tspan> <tspan class="value">Software Engineer</tspan></text>
+    <text x="390" y="50"><tspan class="key">Role:</tspan> <tspan class="dots">···················</tspan> <tspan class="value">Founder and Software Developer</tspan></text>
     <text x="390" y="70"><tspan class="key">Research:</tspan> <tspan class="dots">·······················</tspan> <tspan class="value">Computational Hemodynamics</tspan></text>
     <text x="390" y="90"><tspan class="key">Education:</tspan> <tspan class="dots">·······························</tspan> <tspan class="value">Temple University</tspan></text>
     <text x="390" y="110"><tspan class="key">Athletics:</tspan> <tspan class="dots">··········································</tspan> <tspan class="value">Rowing</tspan></text>
     <text x="390" y="150"><tspan class="key">Languages.Programming:</tspan> <tspan class="dots">···········</tspan> <tspan class="value">Python, JavaScript, Shell</tspan></text>
     <text x="390" y="170"><tspan class="key">Languages.Web:</tspan> <tspan class="dots">······························</tspan> <tspan class="value">HTML, CSS, SQL</tspan></text>
     <text x="390" y="190"><tspan class="key">Tools:</tspan> <tspan class="dots">························</tspan> <tspan class="value">SimVascular, PostgreSQL, Git</tspan></text>
-    <text x="390" y="230"><tspan class="key">Project.Research:</tspan> <tspan class="dots">·······························</tspan> <tspan class="value">HemoDyn AI</tspan></text>
-    <text x="390" y="250"><tspan class="key">Project.FullStack:</tspan> <tspan class="dots">························</tspan> <tspan class="value">Philadelphia BEI</tspan></text>
-    <text x="390" y="270"><tspan class="key">Project.Game:</tspan> <tspan class="dots">·······································</tspan> <tspan class="value">OwlTek</tspan></text>
-    <text x="390" y="290"><tspan class="key">Project.Systems:</tspan> <tspan class="dots">·························</tspan> <tspan class="value">macOS Systems Lab</tspan></text>
-    <text x="390" y="330">Contact <tspan class="rule">────────────────────────────────────────────────────</tspan></text>
-    <text x="390" y="350"><tspan class="key">Email:</tspan> <tspan class="dots">·······························</tspan> <tspan class="value">jace.roman@temple.edu</tspan></text>
-    <text x="390" y="370"><tspan class="key">Portfolio:</tspan> <tspan class="dots">········</tspan> <tspan class="value">z5rcnws7bz-eng.github.io/jace-portfolio/</tspan></text>
-    <text x="390" y="390"><tspan class="key">LinkedIn:</tspan> <tspan class="dots">···························</tspan> <tspan class="value">jace-e-roman-707403344</tspan></text>
-    <text x="390" y="410"><tspan class="key">GitHub:</tspan> <tspan class="dots">·····································</tspan> <tspan class="value">z5rcnws7bz-eng</tspan></text>
-    <text x="390" y="450">GitHub Stats <tspan class="rule">───────────────────────────────────────────────</tspan></text>
-    <text x="390" y="470"><tspan class="key">Original Repos:</tspan> <tspan class="dots">···········</tspan> <tspan class="value">6</tspan> | <tspan class="key">Stars Earned:</tspan> <tspan class="dots">············</tspan> <tspan class="value">1</tspan></text>
-    <text x="390" y="490"><tspan class="key">Followers:</tspan> <tspan class="dots">················</tspan> <tspan class="value">2</tspan> | <tspan class="key">Snapshot:</tspan> <tspan class="dots">·········</tspan> <tspan class="value">Nov 2026</tspan></text>
-    <text x="390" y="510"><tspan class="key">Visibility:</tspan> <tspan class="dots">·························</tspan> <tspan class="value">Public GitHub activity</tspan></text>
+    <a href="https://qevora.dev"><text x="390" y="230"><tspan class="key">Project.Startup:</tspan> <tspan class="dots">··································</tspan> <tspan class="value">qevora</tspan></text></a>
+    <text x="390" y="250"><tspan class="key">Project.Research:</tspan> <tspan class="dots">·······························</tspan> <tspan class="value">HemoDyn AI</tspan></text>
+    <text x="390" y="270"><tspan class="key">Project.FullStack:</tspan> <tspan class="dots">························</tspan> <tspan class="value">Philadelphia BEI</tspan></text>
+    <text x="390" y="290"><tspan class="key">Project.Game:</tspan> <tspan class="dots">·······································</tspan> <tspan class="value">OwlTek</tspan></text>
+    <text x="390" y="310"><tspan class="key">Project.Systems:</tspan> <tspan class="dots">·························</tspan> <tspan class="value">macOS Systems Lab</tspan></text>
+    <text x="390" y="350">Contact <tspan class="rule">────────────────────────────────────────────────────</tspan></text>
+    <text x="390" y="370"><tspan class="key">Email:</tspan> <tspan class="dots">·······························</tspan> <tspan class="value">jace.roman@temple.edu</tspan></text>
+    <text x="390" y="390"><tspan class="key">Portfolio:</tspan> <tspan class="dots">········</tspan> <tspan class="value">z5rcnws7bz-eng.github.io/jace-portfolio/</tspan></text>
+    <text x="390" y="410"><tspan class="key">LinkedIn:</tspan> <tspan class="dots">···························</tspan> <tspan class="value">jace-e-roman-707403344</tspan></text>
+    <text x="390" y="430"><tspan class="key">GitHub:</tspan> <tspan class="dots">·····································</tspan> <tspan class="value">z5rcnws7bz-eng</tspan></text>
+    <text x="390" y="470">GitHub Stats <tspan class="rule">───────────────────────────────────────────────</tspan></text>
+    <text x="390" y="490"><tspan class="key">Original Repos:</tspan> <tspan class="dots">·············································</tspan> <tspan class="value">7</tspan></text>
+    <text x="390" y="510"><tspan class="key">Starred Repos:</tspan> <tspan class="dots">·············································</tspan> <tspan class="value">27</tspan></text>
   </g>
 </svg>
